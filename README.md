@@ -1,4 +1,4 @@
-# Muhammad Umer – Portfolio 
+# My – Portfolio 
 
 A modern, responsive personal portfolio website built to showcase my skills, projects, and background as a Software Engineering student.
 

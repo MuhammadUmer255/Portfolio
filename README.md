@@ -50,7 +50,3 @@ More exciting projects coming soon **In Sha Allah**
 - Contact form UI  
 - Modern glassmorphism UI  
 - Clean and readable code structure  
-
----
-e.pdf
-└── README.md

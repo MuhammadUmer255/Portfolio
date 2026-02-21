@@ -80,25 +80,8 @@ overflow: hidden;
 box-shadow: 0 0 25px rgba(164,144,140,0.4);
 }
 
-.profile-img-container img {
-width: 100%;
-height: 100%;
-object-fit: cover;
-}
-
-.about-img {
-width: 260px;
-height: 260px;
-border-radius: 50%;
-overflow: hidden;
-border: 4px solid var(--accent);
-box-shadow: 0 0 25px rgba(164,144,140,0.4);
-}
-
 .about-img img {
-width: 100%;
-height: 100%;
-object-fit: cover;
+display: block;
 border-radius: 0;
 }
 
@@ -701,5 +684,6 @@ nav {
 gap: 12px;
 }
 }
+
 
 

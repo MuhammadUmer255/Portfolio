@@ -52,4 +52,4 @@ More exciting projects coming soon **In Sha Allah**
 - Clean and readable code structure
 
 ## Link
-https://github.com/MuhammadUmer255/Portfolio/
+https://muhammadumer255.github.io/Portfolio/
